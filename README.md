@@ -1,19 +1,3 @@
-Gracias por la información detallada. Esto es muy útil para diseñar tu página web personal. Aquí tienes algunas preguntas adicionales que me ayudarán a afinar aún más el diseño:
-
-1. **¿Tienes logotipos, fotos o imágenes específicas que quieras incluir en tu página web?**
-   - Si tienes archivos, por favor descríbelos o compártelos para poder incorporarlos.
-
-2. **¿Quieres incluir enlaces a tus perfiles de redes sociales o a otras plataformas?**
-   - Si es así, por favor proporciona las URLs de estos perfiles.
-
-3. **¿Tienes algún contenido específico para cada una de las secciones mencionadas (biografía, servicios, habilidades, etc.) o prefieres que incluya un texto de ejemplo que luego puedas modificar?**
-
-Con estas respuestas, podré proceder a crear el archivo HTML para tu página web personal.
-
----
-
-Suponiendo que no necesitas proporcionar archivos específicos o que se incluirán textos de ejemplo, aquí tienes una primera versión del archivo HTML para tu página web personal:
-
 ```html
 <!DOCTYPE html>
 <html lang="es">
